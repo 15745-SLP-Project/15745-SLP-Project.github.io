@@ -2,6 +2,14 @@
 
 Ashwin Adulla, Li Shi
 
+Project source code: [GitHub](https://github.com/15745-SLP-Project/SLP-Project)
+
+## Final Report & Presentation (Apr 28, 2022)
+
+[Final Report PDF](Final.pdf)
+
+[Poster PDF](Poster.pdf)
+
 ## Milestone Report (Apr 13, 2022)
 
 [Milestone Report PDF](Milestone.pdf)
